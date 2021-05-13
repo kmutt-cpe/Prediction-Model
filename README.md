@@ -5,6 +5,8 @@ There are many patterns of prediction model.
 
 This repository is part of the senior project group no. 59 in CPE KMUTT.
 
+You can access the code here:\
+[https://drive.google.com/drive/folders/1YjWKrL8qNCJUKK_r8GBfE0toVhZR4Dvl?usp=sharing](https://drive.google.com/drive/folders/1YjWKrL8qNCJUKK_r8GBfE0toVhZR4Dvl?usp=sharing)
 ## Pattern 1
 
 ![Image](img_pattern/Pattern1.jpeg)
