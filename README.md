@@ -47,3 +47,7 @@ Change Siamese model to Cosine Similarity.\
 The fastest
 - Disadvantages:\
 The result could worse than Siamese model.
+
+## Pattern 5
+
+Add automate build the model
