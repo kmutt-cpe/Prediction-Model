@@ -50,4 +50,4 @@ The result could worse than Siamese model.
 
 ## Pattern 5
 
-Add automate build the model
+Add automate update the question in model
