@@ -5,7 +5,10 @@ There are many patterns of prediction model.
 
 This repository is part of the senior project group no. 59 in CPE KMUTT.
 
-You can access the code here:\
+In case clone from github, you have to down model file to every pattern folder. Specific to pattern1 must be place in siam folder.
+[https://drive.google.com/file/d/1HTFFHTjQTHr18m6UnAHdIi4HH65YpVqG/view?usp=sharing]
+
+You can access the code from google drive here:\
 [https://drive.google.com/drive/folders/1YjWKrL8qNCJUKK_r8GBfE0toVhZR4Dvl?usp=sharing](https://drive.google.com/drive/folders/1YjWKrL8qNCJUKK_r8GBfE0toVhZR4Dvl?usp=sharing)
 ## Pattern 1
 
