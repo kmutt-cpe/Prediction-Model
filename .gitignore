@@ -123,3 +123,10 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+#model file
+.data
+.h5
+.model
+.pkl
+
