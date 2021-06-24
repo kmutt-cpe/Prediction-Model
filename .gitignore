@@ -125,5 +125,5 @@ venv.bak/
 dmypy.json
 
 #model file
-pattern1/corpus.th.model
-
+pattern1/siam/corpus.th.model
+pattern2/corpus.th.model
