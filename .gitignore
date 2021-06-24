@@ -123,3 +123,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+#model file
+pattern1/corpus.th.model
+
