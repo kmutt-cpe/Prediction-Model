@@ -125,8 +125,5 @@ venv.bak/
 dmypy.json
 
 #model file
-.data
-.h5
-.model
-.pkl
+pattern1/corpus.th.model
 
